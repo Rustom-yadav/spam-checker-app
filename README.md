@@ -1,7 +1,7 @@
 # 🚫 Spam Filter App
 
-🔗 **Live Demo:** [live link](https://your-username.github.io/spam-filter-app)  
-📁 **GitHub Repository:** [GitHub Repo](https://github.com/your-username/spam-filter-app)
+🔗 **Live Demo:** [live link](https://rustom-yadav.github.io/spam-checker-app/)  
+📁 **GitHub Repository:** [GitHub Repo](https://github.com/Rustom-yadav/spam-checker-app)
 
 ---
 
